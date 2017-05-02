@@ -1,0 +1,20 @@
+h:\documents\visual studio 2015\Projects\MySolution\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+h:\documents\visual studio 2015\Projects\MySolution\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+h:\documents\visual studio 2015\Projects\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+h:\documents\visual studio 2015\Projects\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+H:\Documents\Year 2\IMAT2204 Project Management and Development\Assessment\Ass1a Deliverable\Final Deliverable\MySolution\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+H:\Documents\Year 2\IMAT2204 Project Management and Development\Assessment\Ass1a Deliverable\Final Deliverable\MySolution\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+H:\Documents\Year 2\IMAT2204 Project Management and Development\Assessment\Ass1a Deliverable\Final Deliverable\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+H:\Documents\Year 2\IMAT2204 Project Management and Development\Assessment\Ass1a Deliverable\Final Deliverable\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+H:\Documents\Year 2\IMAT2204 Project Management and Development\Assessment\Ass1a Deliverable\Final Deliverable\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\upesh\Documents\Uni\imat2204 temp 260417\MySolution\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\upesh\Documents\Uni\imat2204 temp 260417\MySolution\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\upesh\Documents\Uni\imat2204 temp 260417\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\upesh\Documents\Uni\imat2204 temp 260417\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\upesh\Documents\Uni\imat2204 temp 260417\MySolution\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\upesh\Documents\Uni\MySolution 270417\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\upesh\Documents\Uni\MySolution 270417\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\upesh\Documents\Uni\MySolution 270417\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\upesh\Documents\Uni\MySolution 270417\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\upesh\Documents\Uni\MySolution 270417\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

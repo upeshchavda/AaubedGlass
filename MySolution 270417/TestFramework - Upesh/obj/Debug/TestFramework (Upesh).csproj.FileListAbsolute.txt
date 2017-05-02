@@ -1,0 +1,7 @@
+C:\Users\upesh\Documents\Uni\MySolution 270417\TestFramework - Upesh\bin\Debug\TestFramework.dll
+C:\Users\upesh\Documents\Uni\MySolution 270417\TestFramework - Upesh\bin\Debug\TestFramework.pdb
+C:\Users\upesh\Documents\Uni\MySolution 270417\TestFramework - Upesh\bin\Debug\MyClassLibrary.dll
+C:\Users\upesh\Documents\Uni\MySolution 270417\TestFramework - Upesh\bin\Debug\MyClassLibrary.pdb
+C:\Users\upesh\Documents\Uni\MySolution 270417\TestFramework - Upesh\obj\Debug\TestFramework (Upesh).csprojResolveAssemblyReference.cache
+C:\Users\upesh\Documents\Uni\MySolution 270417\TestFramework - Upesh\obj\Debug\TestFramework.dll
+C:\Users\upesh\Documents\Uni\MySolution 270417\TestFramework - Upesh\obj\Debug\TestFramework.pdb
